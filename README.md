@@ -69,6 +69,7 @@ Conditional clauses: IF, ELIF, ELSE
 ### Part 1
 #### 1.1 Write a program that receives a person's name and displays a greeting.
 ` "Hello [name]! Welcome!" `
+- ex_P1-01.py
 
 #### 1.2 Write a program that receives a person's name and age. Then, display the message:
 ` "Hello [name], good to know you are [x] years old. Welcome!" `

@@ -52,11 +52,12 @@ Conditional clauses: IF, ELIF, ELSE
 3. Create a code of a Ice-Cream Store, where the user can choose:
     a. Type of ice-cream: cone (`R$1.00`), large cone (`R$2,50`), basket (`R$4,00`)
     b. Flavor of ice-cream: strawberry, vanilla, chocolate
-    c. Syrup: caramel (`R$1,50`), morango (`R$1,50`), chocolate (`R$1,50`), sem cobertura (`R$0,00`)
+    c. Syrup: caramel (`R$1,50`), strawberry (`R$1,50`), chocolate (`R$1,50`), no syrup (`R$0,00`)
     d. Present the total to be paid.
     - ex_03.py
 
 4. Create a code that checks if a person belongs to the "calvo" family.
+    - ex_04.py
 
 5. Create a code that checks if a persons belongs to the "calvo" or "silva" family.
 

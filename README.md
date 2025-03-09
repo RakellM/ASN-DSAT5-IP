@@ -60,6 +60,7 @@ Conditional clauses: IF, ELIF, ELSE
     - ex_04.py
 
 5. Create a code that checks if a persons belongs to the "calvo" or "silva" family.
+    - ex_05.py
 
 6. Create a code that checks if the item that a person selected to buy at the store is one of the following: orange, beer, instant noodles, coal, rump steak.
 

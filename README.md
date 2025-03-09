@@ -65,3 +65,31 @@ Conditional clauses: IF, ELIF, ELSE
 6. Create a code that checks if the item that a person selected to buy at the store is one of the following: orange, beer, instant noodles, coal, rump steak.
     - ex_06.py
 
+## Homework
+### Part 1
+#### 1.1 Write a program that receives a person's name and displays a greeting.
+` "Hello [name]! Welcome!" `
+
+#### 1.2 Write a program that receives a person's name and age. Then, display the message:
+` "Hello [name], good to know you are [x] years old. Welcome!" `
+
+#### 1.3 Write a program that receives the radius of a circle in centimeters. Return to the user the area and perimeter of this circle in the following format:
+` Area:  x.xx `
+` Perimeter:  y.yy `
+
+#### 1.4 Write a program that receives two values, A and B. Calculate the sum of these two values and return the result:
+` Sum:  x.xx `
+
+#### 1.5 Write a program that receives two values, A and B. Calculate the power of these two values and return the result:
+` a ^ b = z `
+
+#### 1.6 Write a program that receives a number in seconds, converts this number to hours, minutes, and seconds. Examples:
+` Input: 556 `
+` Output: 0:9:16 `
+
+` Input: 140153 `
+` Output: 38:55:53 `
+
+### Part 2
+
+### Part 3

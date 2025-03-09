@@ -82,6 +82,7 @@ Conditional clauses: IF, ELIF, ELSE
 
 #### 1.4 Write a program that receives two values, A and B. Calculate the sum of these two values and return the result:
 ` Sum:  x.xx `
+- ex_P1-04.py
 
 #### 1.5 Write a program that receives two values, A and B. Calculate the power of these two values and return the result:
 ` a ^ b = z `

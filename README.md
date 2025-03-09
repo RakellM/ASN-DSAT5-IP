@@ -73,6 +73,7 @@ Conditional clauses: IF, ELIF, ELSE
 
 #### 1.2 Write a program that receives a person's name and age. Then, display the message:
 ` "Hello [name], good to know you are [x] years old. Welcome!" `
+- ex_P1-02.py
 
 #### 1.3 Write a program that receives the radius of a circle in centimeters. Return to the user the area and perimeter of this circle in the following format:
 ` Area:  x.xx `

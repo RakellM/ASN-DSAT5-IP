@@ -94,6 +94,7 @@ Conditional clauses: IF, ELIF, ELSE
 
 ` Input: 140153 `
 ` Output: 38:55:53 `
+- ex_P1-06.py
 
 ### Part 2
 

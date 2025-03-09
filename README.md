@@ -63,4 +63,5 @@ Conditional clauses: IF, ELIF, ELSE
     - ex_05.py
 
 6. Create a code that checks if the item that a person selected to buy at the store is one of the following: orange, beer, instant noodles, coal, rump steak.
+    - ex_06.py
 

@@ -86,6 +86,7 @@ Conditional clauses: IF, ELIF, ELSE
 
 #### 1.5 Write a program that receives two values, A and B. Calculate the power of these two values and return the result:
 ` a ^ b = z `
+- ex_P1-05.py
 
 #### 1.6 Write a program that receives a number in seconds, converts this number to hours, minutes, and seconds. Examples:
 ` Input: 556 `

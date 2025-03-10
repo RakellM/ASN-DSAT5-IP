@@ -119,6 +119,7 @@ For people over 65 years old, display:
 ` Average: x `
 ` Lowest: y ` 
 ` Highest: z ` 
+- ex_P2-04.py
 
 #### 2.5 Consider the following list:
 ` [120, “Python”, 120.01, “asw”, False, [10,20]] `

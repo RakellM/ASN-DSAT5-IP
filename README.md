@@ -134,6 +134,7 @@ Write a program that returns the following information:
 - ex_P2-05.py
 
 #### 2.6 Write a program that asks the user for two strings and concatenates them into a single string. Then, display the resulting string.
+- ex_P2-06.py
 
 #### 2.7 Ask the user for the name of a fruit and display the corresponding price.
 - Apple: R$1.50

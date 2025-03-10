@@ -105,12 +105,15 @@ For people between 18 and 65 years old, display:
 ` "John, drinking is allowed! Just don’t drive!" `
 For people over 65 years old, display:
 ` "John, drink with great moderation!" `
+- ex_P2-01.py
 
 #### 2.2 Write a program that receives a number. Check if the given number is even or odd. Display the result as follows:
 ` "The number x is odd." `
 ` "The number x is even." `
+- ex_P2-02.py
 
 #### 2.3 Write a program that asks the user for a name and age and creates a dictionary with this information. Then, display the dictionary.
+- ex_P2-03.py
 
 #### 2.4 Write a program that receives 4 student grades. Return the average of these grades, the lowest, and the highest grade:
 ` Average: x `

@@ -2,9 +2,9 @@
 
 # %%	
 
-last_name = input("Enter your last name: ")
+full_name = input("Enter your full name: ")
 
-if last_name.lower() == "calvo":
+if " calvo" in full_name.lower():
     print("You belong to the Calvo family.")
 else:
     print("You don't belong to the Calvo family.")

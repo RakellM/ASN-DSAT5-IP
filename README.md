@@ -147,6 +147,8 @@ Write a program that returns the following information:
 - Pineapple: R$3.20
 - Jackfruit: R$5.80
 
+- ex_P2-07.py
+
 #### 2.8 Redo exercise 2.4, but use a for loop and lists to receive the student’s grades.
 
 #### 2.9 Write a program that receives a number. Check whether this number is prime or not and return the result:

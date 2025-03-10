@@ -131,6 +131,7 @@ Write a program that returns the following information:
 ` Element -1: x `
 ` First element: y `
 ` Last character of the second element: z `
+- ex_P2-05.py
 
 #### 2.6 Write a program that asks the user for two strings and concatenates them into a single string. Then, display the resulting string.
 

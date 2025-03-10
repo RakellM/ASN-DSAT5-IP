@@ -21,6 +21,8 @@ option_syrup = int(float(input("Choose the syrup you want: \n"
                 "3 - Chocolate\n"
                 "4 - No syrup\n")))
 
+total = 0
+
 if option_icecream < 1 or option_icecream > 3:
     print("Invalid option. Please, choose a valid ice-cream type.")
 elif option_flavor < 1 or option_flavor > 3:

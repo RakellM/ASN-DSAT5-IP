@@ -98,4 +98,92 @@ Conditional clauses: IF, ELIF, ELSE
 
 ### Part 2
 
-### Part 3
+#### 2.1 Write a program that receives a person's name and age.
+If the person is under 18 years old, display the message:
+` "John, you cannot drive or drink." `
+For people between 18 and 65 years old, display:
+` "John, drinking is allowed! Just don’t drive!" `
+For people over 65 years old, display:
+` "John, drink with great moderation!" `
+
+#### 2.2 Write a program that receives a number. Check if the given number is even or odd. Display the result as follows:
+` "The number x is odd." `
+` "The number x is even." `
+
+#### 2.3 Write a program that asks the user for a name and age and creates a dictionary with this information. Then, display the dictionary.
+
+#### 2.4 Write a program that receives 4 student grades. Return the average of these grades, the lowest, and the highest grade:
+` Average: x `
+` Lowest: y ` 
+` Highest: z ` 
+
+#### 2.5 Consider the following list:
+` [120, “Python”, 120.01, “asw”, False, [10,20]] `
+Write a program that returns the following information:
+- The element at position -1 in the list
+- The element in the first position of the list
+- The last character of the second element in the list
+
+` Element -1: x `
+` First element: y `
+` Last character of the second element: z `
+
+#### 2.6 Write a program that asks the user for two strings and concatenates them into a single string. Then, display the resulting string.
+
+#### 2.7 Ask the user for the name of a fruit and display the corresponding price.
+- Apple: R$1.50
+- Banana: R$2.75
+- Grape: R$1.90
+- Pear: R$1.25
+- Orange: R$0.65
+- Lemon: R$1.25
+- Guava: R$2.15
+- Pineapple: R$3.20
+- Jackfruit: R$5.80
+
+#### 2.8 Redo exercise 2.4, but use a for loop and lists to receive the student’s grades.
+
+#### 2.9 Write a program that receives a number. Check whether this number is prime or not and return the result:
+` "The number x is prime." ` or ` "The number x is not prime." `
+
+#### 2.10 Write a program that receives a number. This number corresponds to a position in the Fibonacci sequence: 1, 1, 2, 3, 5, ...
+Display the Fibonacci number that corresponds to the given position:
+` “Position x corresponds to the number y.” `
+
+#### 2.11 Write a program with a function that receives a sentence. For each word in the sentence, reverse the order of the letters. Display the result:
+` This is the original sentence. `
+` sihT si eht lanigiro ecnetnes. `
+
+#### 2.12 Write a program that displays numbers from 1 to 100.
+- If the number is divisible by 3, display "**Fizz**". 
+- If the number is divisible by 5, display "**Buzz**". 
+- If the number is divisible by both, display "**FizzBuzz**".
+
+#### 2.13 Write a program that receives a number and displays its factorial.
+
+#### 2.14 Consider the following list:
+[123, 435, 987, 1984, 2, 19, 423, -178, 320]
+Write a program that returns the **position** of the smallest and largest values in the list:
+` The highest value is at position x. `
+` The lowest value is at position y. `
+
+#### 2.15 Write a program that receives a list of numbers from the user and counts how many times a specific number appears in the list. Ask the user for a number and display the count.
+
+#### 2.16 Write a program that asks the user for a number and displays its multiplication table from 1 to 10.
+
+#### 2.17 Write a program that asks the user for a word and checks whether it is a palindrome (i.e., the same word when read backward).
+
+#### 2.18 Write a program that asks the user for sentences. To stop, the user can simply press "Enter" without typing anything.
+Your program should display each sentence and how many times it was repeated.
+
+
+
+### Challenge
+1. Babylon Lottery
+Build a program that randomly draws a number between 1 and 15.
+The user has 3 chances to guess the number.
+After each attempt, inform whether the guess is higher or lower than the drawn number.
+If the user guesses correctly, congratulate them!
+
+2. Babylon Lottery v2
+Modify the previous challenge to use Streamlit for the interface.

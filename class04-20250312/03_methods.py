@@ -14,3 +14,21 @@ print(age)
 age.append(34)
 
 print(age)
+
+# %%
+
+age.append([23, 36])
+
+print(age)
+
+# %% 
+
+age.remove([23, 36])
+
+print(age)
+
+# %%
+
+age.extend([23, 36])
+
+print(age)

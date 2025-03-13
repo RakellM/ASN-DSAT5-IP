@@ -65,6 +65,37 @@ Conditional clauses: IF, ELIF, ELSE
 6. Create a code that checks if the item that a person selected to buy at the store is one of the following: orange, beer, instant noodles, coal, rump steak.
     - ex_06.py
 
+## Class 03 (2025-03-10)
+Loops: WHILE, FOR
+
+### Class codes:
+- 01_loops.py
+- 02_while.py
+- 03_for.py
+
+### Class Exercise
+1. Create a script that counts how many times the letter "a" appears in the word.
+    - ex_01.py
+
+2. Write a program that receives 4 height values using a loop and calculates their sum.
+    - ex_02.py
+
+3. Write a program that receives an indefinite number of values corresponding to "account balance." However, when the user presses "Enter" without entering any value, the program stops receiving inputs and displays the sum of all previously entered values.
+    - ex_03.py
+
+# Class 04 (2025-03-12)
+LIST, SLICE, DICTIONARY
+
+# Class codes:
+- 01_lists.py
+- 02_slice.py
+- 03_methods.py
+- 04_dictionaries.py
+- 05_loops.py
+
+### Class Exercise
+- ex_01.py
+
 ## Homework
 
 ### Part 1
@@ -150,6 +181,7 @@ Write a program that returns the following information:
 - ex_P2-07.py
 
 #### 2.8 Redo exercise 2.4, but use a for loop and lists to receive the student’s grades.
+- ex_P2-08.py
 
 #### 2.9 Write a program that receives a number. Check whether this number is prime or not and return the result:
 ` "The number x is prime." ` or ` "The number x is not prime." `

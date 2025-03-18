@@ -96,6 +96,20 @@ LIST, SLICE, DICTIONARY
 ### Class Exercise
 - ex_01.py
 
+# Class 05 (2025-03-17)
+FUNCTIONS, LIBRARIES
+
+# Class codes:
+- 01_functions.py
+- 02_args.py
+- 03_list_unpack.py
+- 04_modules.py
+- 05_loops.py
+
+### Class Exercise
+- ex_01.py
+- ex_02.py
+
 ## Homework
 
 ### Part 1
@@ -200,6 +214,7 @@ Display the Fibonacci number that corresponds to the given position:
 - If the number is divisible by both, display "**FizzBuzz**".
 
 #### 2.13 Write a program that receives a number and displays its factorial.
+- first try: class05 > class_exercise > ex_01.py
 
 #### 2.14 Consider the following list:
 [123, 435, 987, 1984, 2, 19, 423, -178, 320]
@@ -224,6 +239,7 @@ Build a program that randomly draws a number between 1 and 15.
 The user has 3 chances to guess the number.
 After each attempt, inform whether the guess is higher or lower than the drawn number.
 If the user guesses correctly, congratulate them!
+- first try: class05 > class_exercise > ex_02.py
 
 2. Babylon Lottery v2
 Modify the previous challenge to use Streamlit for the interface.

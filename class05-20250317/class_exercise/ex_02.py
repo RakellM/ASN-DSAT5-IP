@@ -63,7 +63,6 @@ for t in range(1, try_times + 1):
 
 
 # %%
-# %%
 
 #--Enforce the number to be between 1 and 15, keep asking until it gets at most 3 numbers in the desired range
 
@@ -178,7 +177,6 @@ def main():
         guess_nbr = get_nbr()
         if check_nbr(guess_nbr, chosen_nbr):
             break
-
 
 if __name__ == "__main__":
     main()

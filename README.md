@@ -249,20 +249,20 @@ Modify the previous challenge to use Streamlit for the interface.
 ### Class 06 (2025-03-19)
 
 #### Modules:
-##### 1. Principais objetos do Pandas
+##### 1. Important objects in Pandas
 - Series
 - Dataframes
 
-##### 2. Importando arquivos com pandas
+##### 2. Importing files with Pandas
 - csv
 - xlsx
 - parquet
 
-##### 3. Navegando pelos dados
-- Informações básicas
-- Tipos de colunas
-- Navegação em linhas e colunas
-- Renomeando colunas
+##### 3. Browsing through the data
+- Basic information
+- Column types
+- Browsing into rows and columns
+- Renaming columns
 
 #### Class codes:
 - 01_series.py
@@ -270,3 +270,56 @@ Modify the previous challenge to use Streamlit for the interface.
 - 03_revision.py
 - 04_files.py
 - 05_utils.py
+
+### Class 07 (2025-03-24)
+
+#### Modules:
+##### 4. Filtering the data
+- Logic conditions
+
+##### 5. Transformation and deletion
+- Creating new columns
+- Ordering
+
+#### Class codes:
+- 01_rename.py
+- 02-filter.py
+- 03-is.py
+- 04-new_columns.py
+- 05-sort.py
+
+#### Class Exercise
+- ex_04-01.py
+- ex_04-02.py
+- ex_04-03.py
+
+### Class 08 (future)
+
+#### Modules:
+##### 5. Transformation and deletion
+- Type conversion
+- Applying functions in rows and columns
+- Removing duplicates
+- Working with NAs
+- Replace
+
+##### 6. Group By
+- Aggregating data
+- The method agg
+- Persolized aggregation
+
+##### 7. Data joins
+- Merge
+- Concat
+
+##### 8. Other manipulations
+- Stack
+- Unstack
+- Pivot Table
+- Explode
+
+##### 9. Connecting with SQL DataBases
+- Importing data
+- Running queries
+- Writing data
+

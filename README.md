@@ -271,6 +271,14 @@ Modify the previous challenge to use Streamlit for the interface.
 - 04_files.py
 - 05_utils.py
 
+#### Class Exercise
+- ex_02.py
+- ex_03-01.py
+- ex_03-02.py
+- ex_03-03.py
+- ex_03-04.py
+- ex_03-05.py
+
 ### Class 07 (2025-03-24)
 
 #### Modules:
@@ -293,7 +301,8 @@ Modify the previous challenge to use Streamlit for the interface.
 - ex_04-02.py
 - ex_04-03.py
 
-### Class 08 (future)
+
+### Class 08 (2025-03-26)
 
 #### Modules:
 ##### 5. Transformation and deletion
@@ -303,6 +312,25 @@ Modify the previous challenge to use Streamlit for the interface.
 - Working with NAs
 - Replace
 
+#### Class codes:
+- 01-astype.py
+- 02-apply.pu
+- 03-apply_df.py
+- 04-drop_duplicates.py
+- 05-first_client_transaction.py
+- 06-nan.py
+
+
+#### Class Exercise
+- ex_05-01.py
+- ex_05-02.py
+- ex_05-03.py
+- ex_05-04.py
+- ex_05-05.py
+
+
+### Class 09 (2025-03-31)
+
 ##### 6. Group By
 - Aggregating data
 - The method agg
@@ -311,6 +339,14 @@ Modify the previous challenge to use Streamlit for the interface.
 ##### 7. Data joins
 - Merge
 - Concat
+
+#### Class codes:
+- 01-nas_input.py
+- 02-replace.py
+- 03-aggregations.py
+- 04-join.py (review)
+- 05-join_duplicate.py (review)
+
 
 ##### 8. Other manipulations
 - Stack
@@ -322,4 +358,6 @@ Modify the previous challenge to use Streamlit for the interface.
 - Importing data
 - Running queries
 - Writing data
+
+
 

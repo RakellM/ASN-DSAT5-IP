@@ -1,4 +1,5 @@
-# 04.02 - How many customers have a balance greater than 1000 points?
+# Exercise 4
+# 04.02 - How many customers have a points balance greater than 1000?
 
 # %%
 

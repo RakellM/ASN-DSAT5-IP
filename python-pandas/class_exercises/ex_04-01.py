@@ -1,4 +1,7 @@
-# 04.01 - How many customers has Twitch account?
+# Exercise 4
+# 04.01 - How many customers are linked to Twitch?
+# 04.02 - How many customers have a points balance greater than 1000?
+# 04.03 - How many transactions occurred on 2025-02-01?
 
 # %%
 

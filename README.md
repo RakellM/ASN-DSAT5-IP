@@ -110,6 +110,9 @@ FUNCTIONS, LIBRARIES
 - ex_01.py
 - ex_02.py
 
+
+---
+
 ### Homework
 
 #### Part 1
@@ -195,26 +198,32 @@ Write a program that returns the following information:
 - ex_P2-07.py
 
 ##### 2.8 Redo exercise 2.4, but use a for loop and lists to receive the student’s grades.
-- ex_P2-08.py
+- ex_P2-08.py ❌
 
 ##### 2.9 Write a program that receives a number. Check whether this number is prime or not and return the result:
 ` "The number x is prime." ` or ` "The number x is not prime." `
+- ex_P2-09.py
 
 ##### 2.10 Write a program that receives a number. This number corresponds to a position in the Fibonacci sequence: 1, 1, 2, 3, 5, ...
 Display the Fibonacci number that corresponds to the given position:
 ` “Position x corresponds to the number y.” `
+- ex_P2-10.py
 
 ##### 2.11 Write a program with a function that receives a sentence. For each word in the sentence, reverse the order of the letters. Display the result:
 ` This is the original sentence. `
 ` sihT si eht lanigiro ecnetnes. `
+- ex_P2-11.py
 
 ##### 2.12 Write a program that displays numbers from 1 to 100.
 - If the number is divisible by 3, display "**Fizz**". 
 - If the number is divisible by 5, display "**Buzz**". 
 - If the number is divisible by both, display "**FizzBuzz**".
 
+- ex_P2-12.py
+
 ##### 2.13 Write a program that receives a number and displays its factorial.
 - first try: class05 > class_exercise > ex_01.py
+- ex_P2-13.py
 
 ##### 2.14 Consider the following list:
 [123, 435, 987, 1984, 2, 19, 423, -178, 320]
@@ -222,16 +231,22 @@ Write a program that returns the **position** of the smallest and largest values
 ` The highest value is at position x. `
 ` The lowest value is at position y. `
 
+- ex_P2-14.py
+
 ##### 2.15 Write a program that receives a list of numbers from the user and counts how many times a specific number appears in the list. Ask the user for a number and display the count.
+- ex_P2-15.py
 
 ##### 2.16 Write a program that asks the user for a number and displays its multiplication table from 1 to 10.
+- ex_P2-16.py
 
 ##### 2.17 Write a program that asks the user for a word and checks whether it is a palindrome (i.e., the same word when read backward).
+
+- ex_P2-17.py
 
 ##### 2.18 Write a program that asks the user for sentences. To stop, the user can simply press "Enter" without typing anything.
 Your program should display each sentence and how many times it was repeated.
 
-
+- ex_P2-18.py
 
 #### Challenge
 1. Babylon Lottery
@@ -243,6 +258,9 @@ If the user guesses correctly, congratulate them!
 
 2. Babylon Lottery v2
 Modify the previous challenge to use Streamlit for the interface.
+
+---
+---
 
 ## PANDAS BASE
 
@@ -344,20 +362,92 @@ Modify the previous challenge to use Streamlit for the interface.
 - 01-nas_input.py
 - 02-replace.py
 - 03-aggregations.py
-- 04-join.py (review)
-- 05-join_duplicate.py (review)
+- 04-join.py
+- 05-join_duplicate.py
+
+#### Extra:
+- homework > extra_concat.py
+- homework > extra_case.py (review)
+
+#### Class Exercise
+- ex_06-01.py
 
 
-##### 8. Other manipulations
-- Stack
-- Unstack
-- Pivot Table
-- Explode
+### Class 10 (2025-04-02)
 
 ##### 9. Connecting with SQL DataBases
 - Importing data
 - Running queries
 - Writing data
 
+
+
+
+##### 8. Other manipulations (SKIPPED)
+- Stack
+- Unstack
+- Pivot Table
+- Explode
+
+
+
+
+---
+
+### Homework
+
+#### Exercise 2
+Read the file transacoes.csv with the correct formatting.
+Add a column with values 1.
+Save the DataFrame with the name: transacoes_1.cs
+
+- Class_exercises
+    - ex_02.py
+
+#### Exercise 3
+03.01 - How many rows are there in the file clientes.csv?
+03.02 - How many integer-type columns are there in the file transacoes.csv?
+03.03 - How many object-type columns are there in the file produtos.csv?
+03.04 - What is the id of the customer at index 4 in the file clientes.csv?
+03.05 - What is the points balance of the customer at position 10 (without sorting) in the file clientes.csv?
+
+- Class_exercises:
+    - ex_03-01.py
+    - ex_03-02.py
+    - ex_03-03.py
+    - ex_03-04.py
+    - ex_03-05.py
+
+#### Exercise 4
+04.01 - How many customers are linked to Twitch?
+04.02 - How many customers have a points balance greater than 1000?
+04.03 - How many transactions occurred on 2025-02-01?
+
+- Class_exercises:
+    - ex_04-01.py
+    - ex_04-02.py
+    - ex_04-03.py
+
+#### Exercise 5
+05.01 - Create a new column “twitch_points”, which is the result of multiplying the points balance by the Twitch linkage indicator.
+05.02 - Apply the log function to the points balance column, creating a new column.
+05.03 - Create a column that indicates whether a person is linked to any (any) social media platform.
+05.04 - What is the customer id with the highest points balance? And the lowest?
+05.05 - Select the first daily transaction of each customer.
+
+- Class_exercises:
+    - ex_05-01_04.py
+    - ex_05-05.py
+
+#### Exercise 6
+06.01 - What is the average number of social media platforms per user? And the variance? And the maximum?
+06.02 - Who are the users who made the most transactions? Consider the top 10.
+06.03 - Which user had the highest amount of debited points?
+06.04 - Who had the most Streak transactions?
+06.05 - What is the average number of transactions per day?
+06.06 - How can we calculate the descriptive statistics of transaction points for each user?
+
+- Class_exercises:
+    - ex_06-01_06.py
 
 
